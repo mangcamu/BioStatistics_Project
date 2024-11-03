@@ -1,1 +1,1 @@
-# BioStatistics_Project
+# STAT305_BioStatistics_Project
